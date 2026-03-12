@@ -1,114 +1,129 @@
-<!--
-  Hi 👋🏽
-  This is the profile README for github.com/reddy-santhu
--->
+<!-- Profile README for github.com/reddy-santhu -->
 
-<h1 align="center">hey, i'm Santhu 👋🏽</h1>
+<div align="center">
 
-<p align="center">
+  <!-- Hero -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=F97316&center=true&vCenter=true&width=600&lines=hey%2C+i'm+santhu+👋🏽;backend+%26+blockchain+developer;go+%7C+web3+%7C+ssi+%7C+devops" alt="Typing SVG" />
+
+  <br />
+
   <samp>
-    Backend &amp; Blockchain Developer • Master's Student • Distro Hopper • Web3 Curious
+    Master's student • Backend &amp; Blockchain Developer • Distro Hopper • Web3 Curious
   </samp>
-</p>
 
-<p align="center">
+  <br />
   <samp>
-    building self-sovereign identity systems, hacking on Go backends, and exploring web3 on the side
+    building self-sovereign identity systems, hacking on Go backends, and exploring web3
   </samp>
-</p>
+
+  <br /><br />
+
+  <!-- Quick badges -->
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain-121212?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web3-4C6FFF?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-0F172A?style=for-the-badge&logo=docker&logoColor=white" />
+
+</div>
 
 ---
 
-## 🌌 About Me
+## 🌌 about me
 
-- 🎓 Master's student in Computer Science at the University of Central Missouri, living in Kansas, USA  
-- 🧱 Backend & blockchain dev — I enjoy Go, distributed systems, and identity/auth problems  
-- 🪪 Currently building an SSI sign-in system with Hyperledger (Indy/Fabric)  
-- 🧪 Always tinkering with devops, containers, and new Linux distros  
+- 🎓 master’s student in computer science @ **university of central missouri**, based in **kansas, usa**
+- 🧱 backend & blockchain dev — love **go**, distributed systems, and **identity/auth** problems  
+- 🪪 currently building a **self‑sovereign identity (ssi) sign‑in system** with hyperledger (indy/fabric)  
+- 🐧 distro hopper, linux enjoyer, and frequent terminal dweller  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 tech stack
 
-### 🧡 Languages
+<div align="center">
 
-- Go • JavaScript
+  <!-- icons row, dark-theme friendly -->
+  <img src="https://skillicons.dev/icons?i=go,js,react,express,postgres,mongodb,sqlite,docker,kubernetes,gcp,aws,linux&perline=6" />
 
-### ⚙️ Frameworks & Libraries
+</div>
+
+**languages**
+
+- Go • JavaScript  
+
+**frameworks & libraries**
 
 - Backend: Echo, Express  
-- Frontend: React
+- Frontend: React  
 
-### 🗄️ Databases & Storage
+**databases**
 
-- PostgreSQL • MongoDB • SQLite
+- PostgreSQL • MongoDB • SQLite  
 
-### 🐳 DevOps & Infra
+**devops & infra**
 
 - Docker • Kubernetes  
-- Google Cloud Platform (GCP) • Amazon Web Services (AWS)
+- Google Cloud Platform (GCP) • Amazon Web Services (AWS)  
 
-### 🧩 Tools & OS
+**tools**
 
-- Git • Linux • Bash scripting
-
-<p align="center">
-  <!-- Skill icons (dark-theme friendly) -->
-  <img src="https://skillicons.dev/icons?i=go,js,react,postgres,mongodb,docker,kubernetes,gcp,aws,linux" />
-</p>
+- Git • Linux • Bash scripting  
 
 ---
 
-## 🚀 What I’m Doing Now
+## 🚀 what i’m doing now
 
-- 🔐 Building: a self-sovereign identity (SSI) sign-in system with Hyperledger  
-- 📚 Learning: full‑stack with Go + React, better devops practices, and more about web3/identity  
-- 🤝 Open to: interesting open‑source collabs in backend, identity, or dev tooling  
-
----
-
-## 📌 Featured Projects
-
-### ⭐ SSI Sign-In System (Hero Project)
-
-Self‑sovereign identity based sign‑in flow using Hyperledger primitives to replace traditional username/password authentication.  
-- 🔧 **Focus:** identity, cryptography, secure backend design  
-- 🧱 **Stack:** Go, Hyperledger (Indy/Fabric), containers, Postgres  
-- 🧑‍💻 **Role:** backend & architecture, protocol integration
-
-### 📚 GoDo Study Bot
-
-A Go‑powered study assistant bot to help manage tasks, reminders, or study routines.  
-- 🔧 **Focus:** clean Go services, APIs, and automation  
-- 🧱 **Stack:** Go, REST APIs, CLI / bot tooling  
-- 🧑‍💻 **Role:** end‑to‑end design & implementation
-
-> 🔎 Check out more projects on my profile:  
-> 👉 <a href="https://github.com/reddy-santhu">github.com/reddy-santhu</a>
+- 🔐 **building:** a self‑sovereign identity (ssi) sign‑in system with hyperledger indy/fabric  
+- 📚 **learning:** full‑stack with Go + React, deeper devops, and web3/identity patterns  
+- 🤝 **open to:** backend, web3/ssi, and devtools open‑source collaborations  
 
 ---
 
-## 📊 GitHub Stats
+## 📌 featured projects
 
-<p align="center">
+### ⭐ ssi sign‑in system (hero)
+
+Self‑sovereign identity based sign‑in flow that replaces traditional username/password authentication with verifiable credentials.  
+- 🔧 **focus:** identity, cryptography, secure backend flows  
+- 🧱 **stack:** Go, Hyperledger Indy/Fabric, containers, PostgreSQL  
+- 🧑‍💻 **role:** backend & architecture, protocol/ledger integration  
+
+---
+
+### 📚 godo study bot
+
+Go‑powered study assistant bot to help manage tasks, reminders, and study flow.  
+- 🔧 **focus:** clean Go services, APIs, and automation  
+- 🧱 **stack:** Go, REST APIs, CLI / bot tooling  
+- 🧑‍💻 **role:** end‑to‑end design & implementation  
+
+> 🔎 see more: **[github.com/reddy-santhu](https://github.com/reddy-santhu)**
+
+---
+
+## 📊 github stats
+
+<div align="center">
+
   <img
     src="https://github-readme-stats.vercel.app/api?username=reddy-santhu&show_icons=true&theme=radical&hide_border=true"
-    alt="Santhu's GitHub stats"
+    alt="santhu's github stats"
   />
-</p>
 
-<p align="center">
+  <br />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddy-santhu&layout=compact&theme=radical&hide_border=true"
-    alt="Top languages"
+    alt="top languages"
   />
-</p>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 connect with me
 
-<p align="center">
+<div align="center">
+
   <a href="http://linkedin.com/in/reddy-santhu/">
     <img src="https://img.shields.io/badge/LinkedIn-Santhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -118,8 +133,10 @@ A Go‑powered study assistant bot to help manage tasks, reminders, or study rou
   <a href="mailto:reddy.santhu06@gmail.com">
     <img src="https://img.shields.io/badge/Email-reddy.santhu06%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
 
-<p align="center">
+</div>
+
+<div align="center">
+  <br />
   <samp>let's build something cool together ✨</samp>
-</p>
+</div>
