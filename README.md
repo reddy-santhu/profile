@@ -33,42 +33,20 @@
   <img src="https://skillicons.dev/icons?i=go,js,react,express,postgres,mongodb,sqlite,docker,kubernetes,gcp,aws,linux&perline=6" />
 </div>
 
-**Languages**
-
-- Go  
-- JavaScript  
-
-**Frameworks & Libraries**
-
-- Echo  
-- Express  
-- React  
-
-**Databases & Storage**
-
-- PostgreSQL  
-- MongoDB  
-- SQLite  
-
-**DevOps & Infra**
-
-- Docker  
-- Kubernetes  
-- Google Cloud Platform (GCP)  
-- Amazon Web Services (AWS)  
-
-**Tools & OS**
-
-- Git  
-- Linux  
-- Bash scripting  
+| Category | Tech |
+|----------|------|
+| Languages | Go, JavaScript |
+| Frameworks | Echo, Express, React |
+| Databases | PostgreSQL, MongoDB, SQLite |
+| DevOps | Docker, Kubernetes, GCP, AWS |
+| Tools | Git, Linux, Bash |
 
 ---
 
-## What I’m Doing Now
+## What I'm Doing Now
 
 - Building a self-sovereign identity (SSI) sign-in system with Hyperledger Indy/Fabric  
-- deeper devops practices  
+- Learning deeper devops practices  
 - Open to collaborating on backend, identity/SSI, and dev tooling projects  
 
 ---
