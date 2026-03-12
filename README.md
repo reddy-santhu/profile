@@ -68,7 +68,7 @@
 ## What I’m Doing Now
 
 - Building a self-sovereign identity (SSI) sign-in system with Hyperledger Indy/Fabric  
-- Learning full-stack with Go and React, plus deeper devops practices  
+- deeper devops practices  
 - Open to collaborating on backend, identity/SSI, and dev tooling projects  
 
 ---
@@ -82,27 +82,9 @@ Self-sovereign identity based sign-in flow that replaces traditional username/pa
 - Stack: Go, Hyperledger Indy/Fabric, containers, PostgreSQL  
 - Role: backend and architecture, protocol integration  
 
-### GoDo Study Bot
-
-A Go-powered study assistant bot to help manage tasks, reminders, and study workflows.  
-- Focus: Go services, APIs, and automation  
-- Stack: Go, REST APIs, CLI / bot tooling  
-- Role: end-to-end design and implementation  
-
-For more projects, see the rest of the repositories on my profile:
-
-- <a href="https://github.com/reddy-santhu">github.com/reddy-santhu</a>
-
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=reddy-santhu&show_icons=true&theme=radical&hide_border=true"
-    alt="Santhu's GitHub stats"
-  />
-</p>
 
 <p align="center">
   <img
